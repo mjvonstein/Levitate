@@ -1,0 +1,10 @@
+C:\Users\mjvon\source\repos\Levitate\levitate\bin\Debug\levitate.exe.config
+C:\Users\mjvon\source\repos\Levitate\levitate\bin\Debug\levitate.exe
+C:\Users\mjvon\source\repos\Levitate\levitate\bin\Debug\levitate.pdb
+C:\Users\mjvon\source\repos\Levitate\levitate\obj\Debug\levitate.csprojAssemblyReference.cache
+C:\Users\mjvon\source\repos\Levitate\levitate\obj\Debug\levitate.Properties.Resources.resources
+C:\Users\mjvon\source\repos\Levitate\levitate\obj\Debug\levitate.csproj.GenerateResource.cache
+C:\Users\mjvon\source\repos\Levitate\levitate\obj\Debug\levitate.csproj.CoreCompileInputs.cache
+C:\Users\mjvon\source\repos\Levitate\levitate\obj\Debug\levitate.exe
+C:\Users\mjvon\source\repos\Levitate\levitate\obj\Debug\levitate.pdb
+C:\Users\mjvon\source\repos\Levitate\levitate\obj\Debug\levitate.Form2.resources
